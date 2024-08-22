@@ -31,7 +31,7 @@ Este proyecto es una API RESTful construida con Django y Django REST Framework p
 
 Toda la documentación de la API, incluyendo ejemplos de solicitudes y respuestas para cada endpoint, está disponible en Postman. Puedes acceder a ella en el siguiente enlace:
 
-[Documentación de la API en Postman](https://documenter.getpostman.com/view/10308727/2sAXjDdvAS)
+[Documentación de la API en Postman](https://documenter.getpostman.com/view/10308727/2sAXjDdvAS#81e6edad-d93a-4bc3-a6b5-b38c45f03f83)
 
 
 ## Requisitos
